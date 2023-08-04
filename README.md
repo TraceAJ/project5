@@ -20,3 +20,4 @@ void delete_tree(merkletree* tree)删除merkletree；
 char** divide_string(char* str, int* number)merkletree支持字符串的存储，且以标点符号为分割；
 
 void delete_string(char** s, int n)删除字符串；
+![image](https://github.com/TraceAJ/project5/assets/110471272/dfab1858-147e-4cbd-8568-0292493232e3)
